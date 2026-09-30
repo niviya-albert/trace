@@ -258,15 +258,15 @@ python check_system.py
 
 ---
 
-## 👥 Team Grey Matter
+## 📄 License & Attribution
 
-Developed with ❤️ for **MakersNeedMore (MnM) — Round 2**:
-- **Niviya Albert**
-- **Adithyan M J**
-- **Diya Paramanand**
+This project is developed by **Team Grey Matter** (*Niviya Albert, Adithyan M J, Diya Paramanand*) for **MakersNeedMore (MnM) — Round 2**. 
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
 <div align="center">
-  <sub>Built for mission-critical lost property reunification operations.</sub>
+  <sub>Engineered for high-throughput, mission-critical lost property reunification operations.</sub>
 </div>
+
